@@ -1,1 +1,1 @@
-This is Ed's first git project!
+This is Atlas's first git project!
